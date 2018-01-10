@@ -32,8 +32,12 @@ section{
 	flex-direction: row;
 }
 
-#foam{
-	width: 400px;
+.foam{
+	width: 200%;
+}
+
+#foam_img{
+	width: 90%;
 	transform: rotate(90deg);
 	margin: 15% 0;
 }
